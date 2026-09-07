@@ -1,0 +1,3 @@
+Apples | 35
+Bananas | 32
+Kiwis | 45
